@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo -->
-  <img src="https://github.com/user-attachments/assets/862cb9da-e99f-4707-b782-3cbf6a1d00b6" alt="Clipper Companion Logo" width="140" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/28066288-ac1f-4e96-a3ea-a39f01d2c7de" alt="Clipper Companion Logo" width="140" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 
   <h1>📎 Clipper for Blender 🤖</h1>
   <p><b>Your interactive, animated 3D Viewport companion — helping you master Blender modeling, Geometry Nodes, IK Rigging, and Cycles AgX rendering!</b></p>
@@ -24,6 +24,15 @@
 **Clipper Companion** is a vintage-inspired, interactive 3D Viewport assistant built natively for Blender. Clipper lives directly inside your 3D workspace, tracking your cursor, blinking, talking, and dynamically guiding you through step-by-step 3D modeling and animation workflows.
 
 Whether you're starting with Blender basics or mastering advanced **Geometry Nodes**, **Inverse Kinematics**, and **AgX Color Science**, Clipper validates your viewport actions in real-time and provides instant feedback!
+</br>
+<p>
+<img width="240" height="240" alt="Clipper-Options" src="https://github.com/user-attachments/assets/5b7d4a9c-66d6-48f1-a9a6-0e5560b38168" />
+<img width="240" height="240" src="https://github.com/user-attachments/assets/28066288-ac1f-4e96-a3ea-a39f01d2c7de" alt="Clipper-follow-mouse" />
+<img width="240" height="240" alt="clipper-open" src="https://github.com/user-attachments/assets/6bc11dbc-209f-4095-868a-906b9db099ca" />
+<img width="240" height="240" alt="clipper-feature" src="https://github.com/user-attachments/assets/d983f24e-7bef-4531-96dc-3c6d66df04ca" />
+
+</p>
+
 
 ---
 
