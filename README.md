@@ -42,8 +42,8 @@
   <h2>📥 Installation</h2>
   <ol>
     <li>
-      Download the latest release ZIP file from the 
-      <a href="https://github.com">Releases page</a>.
+      Download the latest release ZIP file clicking white arrow green button on top > Code > Local > Download ZIP.
+      <!-- <a href="https://github.com">Releases page</a>.-->
     </li>
     <li>
       Open Blender and go to <b>Edit</b> &gt; <b>Preferences</b> &gt; <b>Add-ons</b>.
