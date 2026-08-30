@@ -26,10 +26,10 @@
 Whether you're starting with Blender basics or mastering advanced **Geometry Nodes**, **Inverse Kinematics**, and **AgX Color Science**, Clipper validates your viewport actions in real-time and provides instant feedback!
 </br>
 <p>
-<img width="240" height="240" alt="Clipper-Options" src="https://github.com/user-attachments/assets/5b7d4a9c-66d6-48f1-a9a6-0e5560b38168" />
-<img width="240" height="240" src="https://github.com/user-attachments/assets/28066288-ac1f-4e96-a3ea-a39f01d2c7de" alt="Clipper-follow-mouse" />
-<img width="240" height="240" alt="clipper-open" src="https://github.com/user-attachments/assets/6bc11dbc-209f-4095-868a-906b9db099ca" />
-<img width="240" height="240" alt="clipper-feature" src="https://github.com/user-attachments/assets/d983f24e-7bef-4531-96dc-3c6d66df04ca" />
+<img width="24%" height="24%" alt="Clipper-Options" src="https://github.com/user-attachments/assets/5b7d4a9c-66d6-48f1-a9a6-0e5560b38168" />
+<img width="24%" height="24%" src="https://github.com/user-attachments/assets/28066288-ac1f-4e96-a3ea-a39f01d2c7de" alt="Clipper-follow-mouse" />
+<img width="24%" height="24%" alt="clipper-open" src="https://github.com/user-attachments/assets/6bc11dbc-209f-4095-868a-906b9db099ca" />
+<img width="24%" height="24%" alt="clipper-feature" src="https://github.com/user-attachments/assets/d983f24e-7bef-4531-96dc-3c6d66df04ca" />
 
 </p>
 
