@@ -158,7 +158,6 @@ You can switch languages instantly by right-clicking Clipper in the 3D Viewport 
 *Clipper posiada pełne wsparcie dla języka polskiego. Wystarczy kliknąć prawym przyciskiem myszy na Clippera w widoku 3D i wybrać opcję zmiany języka!*
 
 ---
-
 <div align="center">
   <sub>Built with ❤️ for the Blender 3D Community.</sub>
 </div>
