@@ -33,6 +33,21 @@ Whether you're starting with Blender basics or mastering advanced **Geometry Nod
 
 </p>
 
+---
+
+## 🌟 Download
+<div align="center"><a href="https://github.com/sebslom/clipper-blender-companion/archive/refs/heads/main.zip"><img width="442" height="230" alt="clippy-download" src="https://github.com/user-attachments/assets/16bd841d-b7b8-4771-b005-8e7a74925fb3" /></a></div>div
+
+
+## 📥 Installation Guide
+
+1. Download the latest release ZIP file (or clone this repository).
+2. Launch **Blender** (version 3.0 or newer).
+3. Navigate to **Edit** > **Preferences** > **Add-ons**.
+4. Click the **Install...** button at the top right.
+5. Select the downloaded `clippy-companion-main.zip` file and click **Install Add-on**.
+6. Check the box next to **`Interface: Clipper Companion`** to enable it.
+7. Open the 3D Viewport sidebar by pressing **`N`**, select the **`Clipper`** tab, and click **Summon Clipper**!
 
 ---
 
@@ -130,18 +145,6 @@ Clicking Clipper at any time will trigger one of **over 65 expert tips** coverin
 | 🖐️ **Left-Click & Drag** | Move Clipper around your 3D Viewport. |
 | 🖱️ **Right-Click** | Opens Clipper’s custom Context Menu (Access all 25 tutorials, settings & language toggle). |
 | 📜 **Mouse Scroll Wheel** | Scroll through the 25 tutorials in the context menu. |
-
----
-
-## 📥 Installation Guide
-
-1. Download the latest release ZIP file (or clone this repository).
-2. Launch **Blender** (version 3.0 or newer).
-3. Navigate to **Edit** > **Preferences** > **Add-ons**.
-4. Click the **Install...** button at the top right.
-5. Select the downloaded `clippy-companion-main.zip` file and click **Install Add-on**.
-6. Check the box next to **`Interface: Clipper Companion`** to enable it.
-7. Open the 3D Viewport sidebar by pressing **`N`**, select the **`Clipper`** tab, and click **Summon Clipper**!
 
 ---
 
