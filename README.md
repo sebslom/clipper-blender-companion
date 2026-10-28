@@ -1,3 +1,9 @@
+# 📎 Clipper for Blender 🤖
+
+[![Visits Counter](https://glitch.me)](https://github.com)
+[![Total Downloads](https://shields.io)](https://github.com/releases)
+[![Latest Release](https://shields.io)](https://github.com/releases)
+
 <div align="center">
 
   <!-- Logo -->
