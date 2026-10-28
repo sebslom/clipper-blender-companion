@@ -163,9 +163,5 @@ You can switch languages instantly by right-clicking Clipper in the 3D Viewport 
   <sub>Built with ❤️ for the Blender 3D Community.</sub>
 </div>
 
-# 📎 Clipper for Blender 🤖
-
 ![Visits](https://glitch.me)
 [![Downloads](https://shields.io)](https://github.com)
-
-
