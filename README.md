@@ -37,7 +37,7 @@ Whether you're starting with Blender basics or mastering advanced **Geometry Nod
 
 ## 🌟 Download
 
-<div align="center"><a href="https://github.com/sebslom/clipper-blender-companion/archive/refs/heads/main.zip"><img width="442" height="230" alt="clippy-download" src="https://github.com/user-attachments/assets/16bd841d-b7b8-4771-b005-8e7a74925fb3" /></a></div>
+<div align="center"><a href="https://github.com/sebslom/clipper-blender-companion/releases/download/1.0/clipper-blender-companion-main.zip"><img width="442" height="230" alt="clippy-download" src="https://github.com/user-attachments/assets/16bd841d-b7b8-4771-b005-8e7a74925fb3" /></a></div>
 
 ---
 
